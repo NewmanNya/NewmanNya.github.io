@@ -1,1 +1,0 @@
-# NewmanNya.github.io
