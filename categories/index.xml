@@ -16,23 +16,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>category 1</title>
-      <link>https://newmannya.github.io/categories/category-1/</link>
-      <pubDate>Mon, 26 Aug 2024 11:09:17 +0800</pubDate>
-      
-      <guid>https://newmannya.github.io/categories/category-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>category 2</title>
-      <link>https://newmannya.github.io/categories/category-2/</link>
-      <pubDate>Mon, 26 Aug 2024 11:09:17 +0800</pubDate>
-      
-      <guid>https://newmannya.github.io/categories/category-2/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
