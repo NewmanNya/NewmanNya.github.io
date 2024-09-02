@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Obsidian使用思路 on Nya&#39;s Blog</title>
+    <link>https://newmannya.github.io/categories/obsidian%E4%BD%BF%E7%94%A8%E6%80%9D%E8%B7%AF/</link>
+    <description>Recent content in Obsidian使用思路 on Nya&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 27 Aug 2024 17:07:31 +0800</lastBuildDate><atom:link href="https://newmannya.github.io/categories/obsidian%E4%BD%BF%E7%94%A8%E6%80%9D%E8%B7%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian工作流</title>
+      <link>https://newmannya.github.io/posts/note/obsidian%E5%B7%A5%E4%BD%9C%E6%B5%81/</link>
+      <pubDate>Tue, 27 Aug 2024 17:07:31 +0800</pubDate>
+      
+      <guid>https://newmannya.github.io/posts/note/obsidian%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid>
+      <description>完善优化我的Obsidian架构与工作流</description>
+    </item>
+    
+  </channel>
+</rss>

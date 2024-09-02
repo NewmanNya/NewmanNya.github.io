@@ -6,7 +6,7 @@
     <description>Recent content in Obsidian on Nya&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 26 Aug 2024 15:21:42 +0800</lastBuildDate><atom:link href="https://newmannya.github.io/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Aug 2024 17:07:31 +0800</lastBuildDate><atom:link href="https://newmannya.github.io/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian Hugo Python Git建站</title>
       <link>https://newmannya.github.io/posts/tech/obsidian-hugo-python-git%E5%BB%BA%E7%AB%99/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://newmannya.github.io/posts/tech/obsidian-hugo-python-git%E5%BB%BA%E7%AB%99/</guid>
       <description>打通以Obsidian为核心的Hugo博客编辑发布流程</description>
+    </item>
+    
+    <item>
+      <title>Obsidian工作流</title>
+      <link>https://newmannya.github.io/posts/note/obsidian%E5%B7%A5%E4%BD%9C%E6%B5%81/</link>
+      <pubDate>Tue, 27 Aug 2024 17:07:31 +0800</pubDate>
+      
+      <guid>https://newmannya.github.io/posts/note/obsidian%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid>
+      <description>完善优化我的Obsidian架构与工作流</description>
     </item>
     
   </channel>
