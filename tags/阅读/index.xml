@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>阅读 on Nya&#39;s Blog</title>
+    <link>https://newmannya.github.io/tags/%E9%98%85%E8%AF%BB/</link>
+    <description>Recent content in 阅读 on Nya&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 03 Sep 2024 16:44:03 +0800</lastBuildDate><atom:link href="https://newmannya.github.io/tags/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>待读书籍</title>
+      <link>https://newmannya.github.io/posts/read/%E5%BE%85%E8%AF%BB%E4%B9%A6%E7%B1%8D/</link>
+      <pubDate>Tue, 03 Sep 2024 16:44:03 +0800</pubDate>
+      
+      <guid>https://newmannya.github.io/posts/read/%E5%BE%85%E8%AF%BB%E4%B9%A6%E7%B1%8D/</guid>
+      <description>记录下感兴趣的书</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     <description>Recent content on Nya&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 27 Aug 2024 17:07:31 +0800</lastBuildDate><atom:link href="https://newmannya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Sep 2024 15:22:01 +0800</lastBuildDate><atom:link href="https://newmannya.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Obsidian Hugo Python Git建站</title>
       <link>https://newmannya.github.io/posts/tech/obsidian-hugo-python-git%E5%BB%BA%E7%AB%99/</link>
@@ -14,6 +14,24 @@
       
       <guid>https://newmannya.github.io/posts/tech/obsidian-hugo-python-git%E5%BB%BA%E7%AB%99/</guid>
       <description>打通以Obsidian为核心的Hugo博客编辑发布流程</description>
+    </item>
+    
+    <item>
+      <title>睡眠革命读书笔记</title>
+      <link>https://newmannya.github.io/posts/read/%E7%9D%A1%E7%9C%A0%E9%9D%A9%E5%91%BD%E7%9A%84%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Thu, 12 Sep 2024 15:22:01 +0800</pubDate>
+      
+      <guid>https://newmannya.github.io/posts/read/%E7%9D%A1%E7%9C%A0%E9%9D%A9%E5%91%BD%E7%9A%84%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>睡眠革命的读书笔记</description>
+    </item>
+    
+    <item>
+      <title>待读书籍</title>
+      <link>https://newmannya.github.io/posts/read/%E5%BE%85%E8%AF%BB%E4%B9%A6%E7%B1%8D/</link>
+      <pubDate>Tue, 03 Sep 2024 16:44:03 +0800</pubDate>
+      
+      <guid>https://newmannya.github.io/posts/read/%E5%BE%85%E8%AF%BB%E4%B9%A6%E7%B1%8D/</guid>
+      <description>记录下感兴趣的书</description>
     </item>
     
     <item>
